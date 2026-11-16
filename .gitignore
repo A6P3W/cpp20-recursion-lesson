@@ -1,0 +1,5 @@
+# Build outputs
+*.exe
+*.out
+*.o
+solution
